@@ -10,11 +10,15 @@
 
 </div>
 
-## About The Project
 
-[![Ourtube][product-screenshot]](https://twitter.com/suhailkakar)
+https://user-images.githubusercontent.com/56798748/226623199-7728e299-181b-477b-86b9-10bc1cc8020a.mp4
 
+<br />
 A YouTube Clone built on top of FVM and Livepeer, that allows users to create, share and watch videos, without worrying about their privacy.
+<br />
+
+Here is a complete tutorial on how to build a similar project: https://docs.livepeer.org/tutorials/developing/build-decentralized-video-app-with-fvm
+
 
 ### Built With
 
@@ -83,5 +87,3 @@ Don't forget to give the project a star! Thanks again!
 ### License
 
 This project is an open source software licensed under the MIT License
-
-[product-screenshot]: https://radicle.community/uploads/default/original/2X/1/1275b4e842a315e9211c8905c16a34116493c301.jpeg
