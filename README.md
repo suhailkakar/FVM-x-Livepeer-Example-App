@@ -44,7 +44,7 @@ You need to have Node.js, NPM and hardhat installed on your computer, before run
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/suhailkakar/Decentralized-YouTube
+   git clone https://github.com/suhailkakar/FVM-x-Livepeer-Example-App
    ```
 2. Install NPM packages
 
